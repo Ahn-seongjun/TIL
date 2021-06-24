@@ -1,0 +1,9 @@
+git bash 기본 명령어
+git init
+touch 파일명.확장자 - 파일생성
+mkdir 파일명 - 폴더 생성
+git add . 
+git commit -m "" 모두 무대에 올리는것
+git config --global user.email ""
+git config --global user.name ""
+git log --oneline

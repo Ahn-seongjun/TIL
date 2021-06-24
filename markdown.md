@@ -21,9 +21,9 @@
 
 [google] <www.google.com>
 
-![어피치](C:/Users/ahj93/Desktop/멀티캠퍼스/git/TIL/markdown.assets/어피치.jpeg) 
+![어피치](C:/Users/ahj93/Desktop/TIL/markdown.assets/어피치.jpeg) 
 
-![어피치](C:/Users/ahj93/Desktop/멀티캠퍼스/git/TIL/markdown.assets/어피치2.jpg)
+![어피치](C:/Users/ahj93/Desktop/TIL/markdown.assets/어피치2.jpg)
 
 ## 인라인 코드
 
@@ -36,14 +36,4 @@
 ```python
 print("Hello world")
 ```
-
-## 표
-
-<table>
-    |이름|나이|직업|
-    |---|:---:|---:|
-    |안성준|27|백수|
-
-
-</table>
 
