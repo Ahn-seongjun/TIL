@@ -19,7 +19,7 @@
 
 * 순서가 없는 목록
 
-[google] <www.google.com>
+[google] (https://google.com)
 
 ![어피치](C:/Users/ahj93/Desktop/TIL/markdown.assets/어피치.jpeg) 
 

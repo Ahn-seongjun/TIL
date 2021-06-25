@@ -7,3 +7,7 @@ git commit -m "" 모두 무대에 올리는것
 git config --global user.email ""
 git config --global user.name ""
 git log --oneline
+git add README.md
+git branch -M main
+git remote add origin https://github.com/Ahn-seongjun/TIL.git
+git push -u origin main]
